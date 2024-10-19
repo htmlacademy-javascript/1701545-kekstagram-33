@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Илья Гаврусев](https://up.htmlacademy.ru/javascript/33/user/1701545);
+* Студент: [Илья Гаврусев](https://up.htmlacademy.ru/javascript/33/user/1701545).
 * Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 
 ---
