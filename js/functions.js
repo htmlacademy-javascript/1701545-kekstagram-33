@@ -1,5 +1,5 @@
 function checkStringLength(textToValidate, maxLength) {
-  return textToValidate.string <= maxLength;
+  return textToValidate.length <= maxLength;
 }
 
 
